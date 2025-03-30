@@ -1,6 +1,6 @@
 # Hi there, I'm Vishal! 👋
 
-I'm a passionate Backend Developer with expertise in **JavaScript**, **Go**, and **Java** . I love building scalable, high-performance systems, and I'm always looking to explore new technologies to optimize backend architecture and performance.
+I'm a passionate Backend Developer with expertise in **JavaScript** and **Go** . I love building scalable, high-performance systems, and I'm always looking to explore new technologies to optimize backend architecture and performance.
 
 ## 👀 Interests
 - Building scalable APIs and microservices
